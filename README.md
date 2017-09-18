@@ -18,9 +18,19 @@ This app uses the firebase authentication API
 The user profile default image
 ## What I learn from this App
 How to design the GUI of an App  
-How to build connect with different activities  
+How to build connection with different activities  
 How to use navigation bar  
-How to implement authentication using firebase authentication API  
+How to implement authentication using firebase authentication API 
+## The Include Requirement
+Must use at least one image  
+Must use at least two views  
+Must use at least two widgets  
+Must have at least one transition from one screen to another. That is, a single screen app is not acceptable  
+Use a navigation or tab bar  
+Send data from app to a website or use an API  
+Receive data from a website or API in app  
+Use at least one gesture  
+
 
 
 
